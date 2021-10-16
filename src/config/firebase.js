@@ -1,12 +1,12 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-    apiKey: process.env.REACT_APP_API_KEY,
-    authDomain: process.env.REACT_APP_AUTH_DOMAIN,
-    projectId: process.env.REACT_APP_PROJECT_ID,
-    storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
-    messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
-    appId: process.env.REACT_APP_APP_ID
+    apiKey: "AIzaSyCyjQL3_AvkBlpHv0mRMdxSBv8pSLLTkbo",
+    authDomain: "redonion-react-js.firebaseapp.com",
+    projectId: "redonion-react-js",
+    storageBucket: "redonion-react-js.appspot.com",
+    messagingSenderId: "265451771514",
+    appId: "1:265451771514:web:917be6645219fb6beccdc3"
 };
 
 // Initialize Firebase
